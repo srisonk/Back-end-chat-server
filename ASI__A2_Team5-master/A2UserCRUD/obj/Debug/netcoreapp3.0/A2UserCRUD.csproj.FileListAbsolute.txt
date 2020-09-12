@@ -1,0 +1,5 @@
+C:\Users\usuario\Source\Repos\ASI__A2_Team5_backend\ASI__A2_Team5-master\A2UserCRUD\obj\Debug\netcoreapp3.0\A2UserCRUD.csprojAssemblyReference.cache
+C:\Users\usuario\Source\Repos\ASI__A2_Team5_backend\ASI__A2_Team5-master\A2UserCRUD\obj\Debug\netcoreapp3.0\A2UserCRUD.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\ASI__A2_Team5_backend\ASI__A2_Team5-master\A2UserCRUD\obj\Debug\netcoreapp3.0\A2UserCRUD.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\ASI__A2_Team5_backend\ASI__A2_Team5-master\A2UserCRUD\obj\Debug\netcoreapp3.0\A2UserCRUD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\ASI__A2_Team5_backend\ASI__A2_Team5-master\A2UserCRUD\obj\Debug\netcoreapp3.0\A2UserCRUD.MvcApplicationPartsAssemblyInfo.cache
